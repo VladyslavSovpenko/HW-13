@@ -1,0 +1,6 @@
+package TaskThree;
+
+import java.util.ArrayList;
+
+public class Users extends ArrayList<User> {
+}
